@@ -1,0 +1,32 @@
+body {
+    background-color: mediumaquamarine;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    background-color: mediumaquamarine;
+    border-width: 5px;
+    width: 100%;
+    
+}
+
+
+h1 {
+    color: white;
+    
+    background-color: teal;
+    border-width: 5px;
+    width: 100%;
+}
+
+h2 {
+    color: white;
+    background-color: lightslategrey;
+}
+
+
+
+
+/* #66BFBF */
